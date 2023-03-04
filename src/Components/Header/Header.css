@@ -1,0 +1,10 @@
+.header-container{
+    background-color: #1C2B35;
+    padding: 15px 0px;
+}
+.nav-link.active{
+    color: FF9900# !important;
+}
+.nav-link:hover{
+    color: #FF9900 !important;
+}

@@ -1,0 +1,33 @@
+.card{
+    width: 300px;
+    height: 530px;
+    /* margin-bottom: 20px; */
+    position: relative;
+}
+.card img{
+    border-radius: 8px;
+    margin: 7px;
+}
+.product-info{
+    padding: 7px 14px;
+}
+.product-info h3{
+    font-size: 21px;
+    line-height: 25px;
+    text-transform: capitalize;
+}
+button{
+    border: none;
+    background-color: #FF9900;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+button p{
+    padding-top: 10px;
+}
+button:hover{
+    background-color: orange;
+}
